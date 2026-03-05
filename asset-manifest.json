@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/climate-simulator/static/css/main.2b9d1781.css",
-    "main.js": "/climate-simulator/static/js/main.3b54cfb7.js",
-    "static/js/453.0a307988.chunk.js": "/climate-simulator/static/js/453.0a307988.chunk.js",
+    "main.css": "/climate-simulator/static/css/main.59fe0d15.css",
+    "main.js": "/climate-simulator/static/js/main.0a14fc93.js",
+    "static/js/453.17e34d6e.chunk.js": "/climate-simulator/static/js/453.17e34d6e.chunk.js",
     "index.html": "/climate-simulator/index.html",
-    "main.2b9d1781.css.map": "/climate-simulator/static/css/main.2b9d1781.css.map",
-    "main.3b54cfb7.js.map": "/climate-simulator/static/js/main.3b54cfb7.js.map",
-    "453.0a307988.chunk.js.map": "/climate-simulator/static/js/453.0a307988.chunk.js.map"
+    "main.59fe0d15.css.map": "/climate-simulator/static/css/main.59fe0d15.css.map",
+    "main.0a14fc93.js.map": "/climate-simulator/static/js/main.0a14fc93.js.map",
+    "453.17e34d6e.chunk.js.map": "/climate-simulator/static/js/453.17e34d6e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2b9d1781.css",
-    "static/js/main.3b54cfb7.js"
+    "static/css/main.59fe0d15.css",
+    "static/js/main.0a14fc93.js"
   ]
 }
