@@ -1,0 +1,64 @@
+body {
+  margin: 0;
+  font-family: "Segoe UI", sans-serif;
+  background: linear-gradient(to bottom, #0f2027, #203a43, #2c5364);
+  color: white;
+}
+
+/* WELCOME SCREEN */
+
+.welcome {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.welcome h1 {
+  font-size: 60px;
+  margin-bottom: 10px;
+}
+
+.subtitle {
+  font-size: 22px;
+  opacity: 0.8;
+  margin-bottom: 40px;
+}
+
+.startButton {
+  padding: 15px 40px;
+  font-size: 20px;
+  border: none;
+  border-radius: 30px;
+  background: #4CAF50;
+  color: white;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.startButton:hover {
+  background: #66bb6a;
+  transform: scale(1.05);
+}
+
+/* GAME */
+
+.game {
+  padding: 40px;
+}
+
+.optionButton {
+  display: block;
+  margin: 10px 0;
+  padding: 12px;
+  font-size: 16px;
+  border-radius: 10px;
+  border: none;
+  cursor: pointer;
+}
+
+.stats {
+  margin-top: 30px;
+}
