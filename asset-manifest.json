@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/climate-simulator/static/css/main.2b9d1781.css",
+    "main.js": "/climate-simulator/static/js/main.3b54cfb7.js",
+    "static/js/453.0a307988.chunk.js": "/climate-simulator/static/js/453.0a307988.chunk.js",
+    "index.html": "/climate-simulator/index.html",
+    "main.2b9d1781.css.map": "/climate-simulator/static/css/main.2b9d1781.css.map",
+    "main.3b54cfb7.js.map": "/climate-simulator/static/js/main.3b54cfb7.js.map",
+    "453.0a307988.chunk.js.map": "/climate-simulator/static/js/453.0a307988.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b9d1781.css",
+    "static/js/main.3b54cfb7.js"
+  ]
+}
